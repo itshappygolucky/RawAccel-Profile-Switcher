@@ -6,7 +6,7 @@ This project is a basic program that helps you swap between multiple Raw Accel p
 
 ## Installation
 
-Head to the [releases](https://github.com/itshappygolucky/RawAccelSwitcher/releases) page, and extract the zip file. 
+Head to the [releases](https://github.com/itshappygolucky/RawAccel-Profile-Switcher/releases/) page, and extract the zip file. 
 
 To load this program on boot, create a shortcut of `ra_switcher.exe` and add to startup folder.
 
